@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Jun  5 08:27:22 2025
+# Process ID: 560
+# Current directory: C:/Users/Bardi/Desktop/Facultate/Bardi Robert/An 2/Semestrul 2/CA/Lab08/Lab08.runs/impl_1
+# Command line: vivado.exe -log Top_dec.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Top_dec.tcl -notrace
+# Log file: C:/Users/Bardi/Desktop/Facultate/Bardi Robert/An 2/Semestrul 2/CA/Lab08/Lab08.runs/impl_1/Top_dec.vdi
+# Journal file: C:/Users/Bardi/Desktop/Facultate/Bardi Robert/An 2/Semestrul 2/CA/Lab08/Lab08.runs/impl_1\vivado.jou
+# Running On: DESKTOP-ODUVKK8, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16479 MB
+#-----------------------------------------------------------
+source Top_dec.tcl -notrace

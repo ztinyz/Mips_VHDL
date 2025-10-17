@@ -1,0 +1,35 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Oct 17 09:31:44 2025
+# Process ID         : 40264
+# Current directory  : C:/Users/Bardi/Desktop/Mips_VHDL
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent32440 C:\Users\Bardi\Desktop\Mips_VHDL\Lab08.xpr
+# Log file           : C:/Users/Bardi/Desktop/Mips_VHDL/vivado.log
+# Journal file       : C:/Users/Bardi/Desktop/Mips_VHDL\vivado.jou
+# Running On         : DESKTOP-ODUVKK8
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16479 MB
+# Swap memory        : 19327 MB
+# Total Virtual      : 35807 MB
+# Available Virtual  : 25493 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.xpr
+update_compile_order -fileset sources_1
+remove_files  {C:/Users/Bardi/Desktop/Mips_VHDL/src/mono_pulse_generator.vhd C:/Users/Bardi/Desktop/Mips_VHDL/src/SSD.vhd C:/Users/Bardi/Desktop/Mips_VHDL/src/inst_fetch.vhd}
+remove_files  {C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/CU.vhd C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/Instruction_decode.vhd C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/exec_unit.vhd C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/mem_unit.vhd}
+update_compile_order -fileset sources_1
+add_files -norecurse {C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/CU.vhd C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/mem_unit.vhd C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/exec_unit.vhd C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/Instruction_decode.vhd}
+update_compile_order -fileset sources_1
+add_files -norecurse {C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/mono_pulse_generator.vhd C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/SSD.vhd C:/Users/Bardi/Desktop/Mips_VHDL/Lab08.srcs/sources_1/new/inst_fetch.vhd}
+update_compile_order -fileset sources_1
+remove_files  -fileset constrs_1 {{C:/Users/Bardi/Desktop/Facultate/Bardi Robert/An 2/Semestrul 2/CA/NEXYS_A7.xdc}}
+add_files -fileset constrs_1 -norecurse C:/Users/Bardi/Desktop/Mips_VHDL/NEXYS_A7.xdc
